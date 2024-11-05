@@ -1,0 +1,12 @@
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/SampleApi
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/appsettings.json
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/SampleApi.dll
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/SampleApi.deps.json
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/SampleApi.runtimeconfig.json
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/SampleApi.pdb
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/Microsoft.OpenApi.dll
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/wayne/Documents/Work/SampleApi/SampleApi/bin/Release/net8.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
